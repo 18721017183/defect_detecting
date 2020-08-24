@@ -1,0 +1,8 @@
+后缀：“_ct”
+    样本为传统方法设计
+    train_ct.py
+    data_ct
+        zhengchan:0
+        wudian:2
+        liewen/yapo:3
+        yazhong:4
